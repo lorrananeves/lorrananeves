@@ -2,16 +2,6 @@
 
 - ✨ Não trabalho mais com desenvolvimento, apareço aqui de vez em nunca por diversão
 
-##
-
-<div align="center">
-  <a href="https://github.com/huogerac">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lorrananeves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorrananeves&hide=Jupyter%20Notebook,Java,CSS,Jinja,Shell,Makefile,Mako&langs_count=5&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
-----
 
 ### Languages and tools
 
