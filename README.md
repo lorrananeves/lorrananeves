@@ -1,6 +1,6 @@
 ### 👋 Hi there, I’m Lorrana, welcome to my profile
 
-- ✨ I study front-end and back-end too
+- ✨ Não trabalho mais com desenvolvimento, apareço aqui de vez em nunca por diversão
 
 ##
 
